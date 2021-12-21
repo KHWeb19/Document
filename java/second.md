@@ -60,3 +60,12 @@
 5. 하단의 Create Pull Request를 누른다.
 6. 원본의 PR(Pull Request)에 자신의 요청이 들어갔는지 확인한다.
 ```
+
+## How to fetch Origin to Copy
+
+```make
+1. 먼저 사본으로 이동합니다.
+2. Code가 있는 하단에 Fetch upstream이 있다.
+3. 누르고 Fetch and merge를 클릭한다.
+4. 사본에 원본 내용들이 갱신되는 것을 확인한다.
+```
