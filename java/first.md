@@ -28,4 +28,15 @@
 5. mkdir khweb19 등을 통해 디렉토리를 만듭니다.
 6. cd khweb19를 통해 디렉토리를 이동합니다.
 7. git bash 상에서 저장하고자 하는 위치에 git clone을 통해 저장소를 가져옵니다.
+8. cd Homework를 통해 저장소로 이동합니다.
+```
+
+## How to commit
+
+```make
+1. 메모장이나 IDE를 통해 파일을 만듭니다.
+2. git add 추가하고자하는파일 혹은 디렉토리
+3. git commit -am "[이름] 작업 내용"으로 커밋합니다.
+4. git push origin main
+5. 사본에 가서 내용이 잘 추가되었는지 확인합니다.
 ```
