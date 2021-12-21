@@ -69,3 +69,14 @@
 3. 누르고 Fetch and merge를 클릭한다.
 4. 사본에 원본 내용들이 갱신되는 것을 확인한다.
 ```
+
+## Trello Environment Settings
+
+```make
+1. trello.com에 접속
+2. 회원가입
+3. 로그인
+4. slack으로 트렐로 회원가입한 이메일 주소 전송
+5. 초대 승인
+6. 트렐로 제어 확인
+```
