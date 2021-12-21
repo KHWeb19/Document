@@ -36,3 +36,16 @@
 5. 앤터치면 git에 추가하겠냐고 묻는데 add를 누른다.
 6. 원하는대로 코드를 작성하면 된다.
 ```
+
+## How to commit source code with IntelliJ
+
+```make
+1. IntelliJ에서 소스 코드를 작성한다.
+2. IntelliJ 상단에서 Git을 누르고 commit을 누른다.
+3. 그러면 좌측에 창이 나타날 것이다.
+4. [이름] 작업 내용 형식으로 commit 메시지를 기록한다.
+5. Commit 버튼을 눌러서 커밋을 진행한다.
+6. 다시 상단의 Git -> push를 누른다.
+7. Push를 누른다.
+8. 사본으로 이동해서 Git에 업로드 여부를 확인한다.
+```
