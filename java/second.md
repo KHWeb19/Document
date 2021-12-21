@@ -25,3 +25,14 @@
 11. Project name으로는 동일하게 first를 준다.
 12. Finish를 누르면 프로젝트가 자동으로 만들어진다.
 ```
+
+## How to make new Java Class
+
+```make
+1. src에서 우클릭한다.
+2. New -> Java Class를 누른다.
+3. 이름을 지정한다.
+4. 우선 처음인만큼 FirstJavaTest라고 이름 짓는다.
+5. 앤터치면 git에 추가하겠냐고 묻는데 add를 누른다.
+6. 원하는대로 코드를 작성하면 된다.
+```
