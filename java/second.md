@@ -14,7 +14,7 @@
 ```make
 1. IntelliJ를 실행한다.
 2. New Project를 누른다.
-3. Download JDK를 누른다.
+3. Download JDK를 누른다. (No SDK라고 나오는 경우에만)
 4. Version: 11
 5. Vendor: Zulu Community
 6. Location: C:\Users\.jdks\azul-11.0.13
