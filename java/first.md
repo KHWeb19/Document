@@ -40,3 +40,11 @@
 4. git push origin main
 5. 사본에 가서 내용이 잘 추가되었는지 확인합니다.
 ```
+
+## How to resolve commit error with config options
+
+```make
+1. git config --global user.email "이메일주소"
+2. git config --global user.name "계정명"
+3. 다시 위의 3번부터 진행하면 된다.
+```
