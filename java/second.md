@@ -58,4 +58,5 @@
 3. Contribute -> Open Pull Request를 누른다.
 4. Create Pull Request를 누른다.
 5. 하단의 Create Pull Request를 누른다.
+6. 원본의 PR(Pull Request)에 자신의 요청이 들어갔는지 확인한다.
 ```
