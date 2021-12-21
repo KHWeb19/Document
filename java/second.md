@@ -49,3 +49,13 @@
 7. Push를 누른다.
 8. 사본으로 이동해서 Git에 업로드 여부를 확인한다.
 ```
+
+## How to Pull Request to Origin
+
+```make
+1. 코드 작업을 완료하고 push한다.
+2. 사본으로 이동한다.
+3. Contribute -> Open Pull Request를 누른다.
+4. Create Pull Request를 누른다.
+5. 하단의 Create Pull Request를 누른다.
+```
