@@ -90,6 +90,12 @@ https://dev.mysql.com/downloads/shell/
 27) select version(); 등이 잘 동작하면 모든것이 clear한 상태!
 ```
 
+## MySQL 비밀번호를 잘못 입력했을 경우
+
+```make
+https://jjeongil.tistory.com/1484
+```
+
 ## How to install MySQL on Linux & Unix(MAC)
 
 ```make
