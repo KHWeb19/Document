@@ -36,6 +36,12 @@ https://dang-dang12.tistory.com/7
 https://brew.sh/index_ko
 ```
 
+## MySQL Shell 설치 안될 경우 (Windows 한정)
+
+```make
+https://dev.mysql.com/downloads/shell/
+```
+
 ## How to install MySQL on Windows
 
 ```make
