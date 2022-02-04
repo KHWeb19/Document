@@ -9,6 +9,13 @@
 중간에 뭐가 나올때 그냥 대충 휙휙 넘기거나 끄면 안됩니다.
 컴퓨터 포맷해야 하는 최악의 사태가 발생할 수 있습니다.
 
+작업 진행중 중간에 나타나는 에러 메시지를 잘 확인해야 합니다.
+에러 메시지에 보면 Packages requiring reboot: 하면서 필요한 패키지를 요청합니다.
+여기에는 vcredist140 이 적힐수도 있고 다른게 적힐 수도 있습니다.
+만약 vcredist140 이 적혀 있다면 아래를 다운로드 하길 바랍니다.
+
+https://www.microsoft.com/ko-kr/download/details.aspx?id=48145
+
 1. https://nodejs.org/ko/download/ 에서 자신의 운영체제에 맞게 다운로드한다.
 2. 실행
 3. Next
