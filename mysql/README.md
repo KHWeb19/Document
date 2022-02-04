@@ -30,6 +30,12 @@ https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-download
 https://dang-dang12.tistory.com/7
 ```
 
+## brew 가 없는 경우 (MAC 한정)
+
+```make
+https://brew.sh/index_ko
+```
+
 ## How to install MySQL on Windows
 
 ```make
