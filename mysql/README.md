@@ -22,6 +22,14 @@ https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-download
 만약 포맷하고 다시 하는 사람이라면 수동으로 할 필요는 없다.
 ```
 
+## 용량이 부족한 경우
+
+```make
+아래 링크를 참고합니다.
+
+https://dang-dang12.tistory.com/7
+```
+
 ## How to install MySQL on Windows
 
 ```make
