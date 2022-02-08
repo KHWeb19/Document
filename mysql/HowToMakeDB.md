@@ -28,12 +28,7 @@ status;
 현재 정책값 보기
 show variables like 'validate_password%';
 낮추기
-set global validate_password_policy=LOW;
-```
-
-```make
-create user 'root'@'%' identified by 'root';
-grant all privileges on *.* to 'root'@'%' with grant option;
+set global validate_password.policy=LOW;
 ```
 
 5. 이제 사용자 계정을 생성한다.  
