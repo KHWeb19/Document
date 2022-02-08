@@ -25,13 +25,13 @@ status;
    root 계정 사용하면 컴퓨터 털어가세요란 뜻이라 절대로 하면 안됨  
    
 ```make
-create user khweb@localhost identified by 'khWeb@123';
+create user eddi@localhost identified by 'eddi@123';
 ```
 
 6. 사용자 계정이 DB를 활용할 수 있도록 권한을 위임한다.  
 
 ```make
-grant all privileges on non_jpa_db.* to khweb@localhost;
+grant all privileges on non_jpa_db.* to eddi@localhost;
 ```
 
 7. 현재 상태 저장  
@@ -43,7 +43,7 @@ flush privileges;
 8. 권한이 잘 설정되었는지 체크한다.  
 
 ```make
-show grants for 'khweb'@'localhost';
+show grants for 'eddi'@'localhost';
 ```
 
 9. 이제 실제 테이블을 만들어보자!
