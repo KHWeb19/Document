@@ -24,6 +24,14 @@ status;
 * 사용자 계정 생성시 보안 문제 발생하는 경우 (MAC에서 발생하는 문제임)  
 
 ```make
+비밀번호 정책 다운 그레이드
+현재 정책값 보기
+show variables like 'validate_password%';
+낮추기
+set global validate_password_policy=LOW;
+```
+
+```make
 create user 'root'@'%' identified by 'root';
 grant all privileges on *.* to 'root'@'%' with grant option;
 ```
