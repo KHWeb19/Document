@@ -21,6 +21,13 @@ show databases;
 status;
 ```
 
+* 사용자 계정 생성시 보안 문제 발생하는 경우 (MAC에서 발생하는 문제임)  
+
+```make
+create user 'root'@'%' identified by 'root';
+grant all privileges on *.* to 'root'@'%' with grant option;
+```
+
 5. 이제 사용자 계정을 생성한다.  
    root 계정 사용하면 컴퓨터 털어가세요란 뜻이라 절대로 하면 안됨  
    
