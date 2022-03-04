@@ -63,7 +63,7 @@ https://www.microsoft.com/ko-kr/download/details.aspx?id=48145
  ( ) Unit Testing
  ( ) E2E Testing
  
-? Choose a version of Vue.js that you want to start the project with 3.x
+? Choose a version of Vue.js that you want to start the project with 2.x
 
 ? Use history mode for router? (Requires proper server setup for index fallback in production) Yes
 
