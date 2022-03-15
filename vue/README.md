@@ -103,7 +103,7 @@ npm install material-design-icons --save-dev
 ## Vuetify
 
 ```make
-npm add vuetify
+vue add vuetify
 ```
 
 ## CoverFlow
