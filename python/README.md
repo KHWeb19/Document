@@ -13,4 +13,6 @@ https://www.anaconda.com/products/individual
 4. 중간쯤에 Just me (recommended)
 5. 경로 배치하는것은 C:\anaconda3 혹은 D:\anaconda3 등으로 배치
 6. Register Anaconda3 as my default Python
+7. 설치 완료 이후 MaC 혹은 Linux 는 배치할 경로에 가서 jupyter notebook 만 치면 끝
+   윈도우의 경우엔 Anaconda Prompt 에서 배치할 경로로 이동해서 jupyter notebook 입력
 ```
