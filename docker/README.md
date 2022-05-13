@@ -9,6 +9,9 @@
 6. 리부팅 이후 설치 진행
 7. 전부 체크
 8. Docker 설치 완료 이후 다시 재부팅
-9. 무료 플랜으로 진행
-10. 
+9. 나타나는 창에 동의 클릭
+10. https://docs.microsoft.com/ko-kr/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package 패치
+11. x64 WSL 업데이트 패치 설치
+12. PowerShell 에서 wsl --set-default-version 2 입력
+13. 
 ```
