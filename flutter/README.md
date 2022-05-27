@@ -16,7 +16,15 @@
 3. Plugins 에서 Flutter 찾아서 설치  
 4. 설치 완료후 Android Studio 재실행  
 5. File -> New Flutter Project 로 플러터 프로젝트 생성  
-6. Flutter App 선택하고 Next 신공  
-7. 프로젝트 생성 이후 Android Stduio 자체 터미널에서 flutter doctor 입력  
-8. Android Toolchain 문제가 거론된다면 flutter doctor --android-licenses  
-9. 클래스를 못찾는다고 말한다면 SDK Manager -> SDK Tools -> Android SDK Command-line Tools 체크 후 설치  
+
+* 만약 이때 Flutter 를 못 찾는다는 메시지가 나타난다면 아래 위치에서 flutter 를 직접 다운로드 받도록 한다.  
+
+SDK 위치로 이동 -> Flutter SDK 설치(OS에 맞게 다운로드)  
+https://docs.flutter.dev/development/tools/sdk/releases?tab=windows  
+되도록이면 각종 side effect 를 피하기 위해 2.10.3 버전으로 통일한다.  
+https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.10.3-stable.zip  
+
+7. Flutter App 선택하고 Next 신공  
+8. 프로젝트 생성 이후 Android Stduio 자체 터미널에서 flutter doctor 입력  
+9. Android Toolchain 문제가 거론된다면 flutter doctor --android-licenses  
+10. 클래스를 못찾는다고 말한다면 SDK Manager -> SDK Tools -> Android SDK Command-line Tools 체크 후 설치  
