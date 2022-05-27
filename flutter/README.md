@@ -27,6 +27,10 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 추가적으로 압축을 풀어다 C 드라이브에 배치한다.  
 그리고 환경 설정에 해당 경로를 배차하여 터미널에서 flutter --version 정보가 나오도록 설정한다.  
 
+MaC 혹은 Linux 의 경우엔 아래와 같은 스크립트를 배치해야 한다.  
+vi ~/.bashrc 에 export PATH=$PATH:/home/계정/flutter/bin  
+이후 source ~/.bashrc 하면 적용되는데 MaC은 경로가 이게 맞는지 모르겠음.  
+
 7. Flutter App 선택하고 Next 신공  
 8. 프로젝트 생성 이후 Android Stduio 자체 터미널에서 flutter doctor 입력  
 9. Android Toolchain 문제가 거론된다면 flutter doctor --android-licenses  
