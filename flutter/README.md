@@ -24,6 +24,9 @@ https://docs.flutter.dev/development/tools/sdk/releases?tab=windows
 되도록이면 각종 side effect 를 피하기 위해 2.10.3 버전으로 통일한다.  
 https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.10.3-stable.zip  
 
+추가적으로 압축을 풀어다 C 드라이브에 배치한다.  
+그리고 환경 설정에 해당 경로를 배차하여 터미널에서 flutter --version 정보가 나오도록 설정한다.  
+
 7. Flutter App 선택하고 Next 신공  
 8. 프로젝트 생성 이후 Android Stduio 자체 터미널에서 flutter doctor 입력  
 9. Android Toolchain 문제가 거론된다면 flutter doctor --android-licenses  
