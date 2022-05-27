@@ -29,7 +29,8 @@ https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flu
 
 MaC 혹은 Linux 의 경우엔 아래와 같은 스크립트를 배치해야 한다.  
 vi ~/.bash_profile 에 export PATH=$PATH:/home/계정/flutter/bin  
-이후 source ~/.bash_profile 하면 적용 완료
+이후 source ~/.bash_profile 하면 적용 완료  
+실제 Android Studio 터미널에서 구동 안될 경우 .zshrc 에 위의 작업을 동일하게 해줌  
 
 7. Flutter App 선택하고 Next 신공  
 8. 프로젝트 생성 이후 Android Stduio 자체 터미널에서 flutter doctor 입력  
